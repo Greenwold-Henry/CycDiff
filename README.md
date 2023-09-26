@@ -3,6 +3,7 @@ Looking for finite cyclic difference sets mod p^2 + p + 1 (sets set to include 0
 
 Results:
 
+```
 p = 3:
 Subset 1: (3, 9, 0, 1)
 Subset 2: (4, 6, 0, 1)
@@ -34,3 +35,4 @@ Subset 9: (7, 24, 36, 38, 49, 54, 0, 1)
 Subset 10: (9, 11, 14, 35, 39, 51, 0, 1)
 Subset 11: (9, 20, 23, 41, 51, 53, 0, 1)
 Subset 12: (13, 15, 21, 24, 31, 53, 0, 1)
+```
